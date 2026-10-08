@@ -1,0 +1,8 @@
+python-dotenv
+nvidia-riva-client
+jiwer
+whisper-normalizer
+soundfile
+datasets
+pydantic
+openai
